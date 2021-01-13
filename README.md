@@ -1,2 +1,2 @@
 # CovidSeating
- Simple seating chart manager for theaters during COVID
+ Simple command line based seating chart manager for theaters during COVID-19
